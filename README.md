@@ -1,16 +1,20 @@
 ### Hi there 👋
+i am LeeHeeJun
+---
+### FrontEnd engineer
 
-<!--
-**leeheejuuun/leeheejuuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 Blog
+---
+  * [https://heejunn.tistory.com/](https://heejunn.tistory.com/)
+### 🙋‍♂️ contact
+---
+  * 📧 leehee117500@gmail.com
+  * 📞 010-3812-6126
+  
 
-Here are some ideas to get you started:
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeheejuuun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeheejuuun&show_icons=true&theme=radical)
+
